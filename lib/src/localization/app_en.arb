@@ -1,0 +1,10 @@
+{
+  "appTitle": "Location",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "browseLocation":"Browse the locations",
+  "search":"search",
+  "noLocation":"No location found.",
+  "select":"Select"
+}
